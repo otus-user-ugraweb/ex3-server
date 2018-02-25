@@ -1,4 +1,5 @@
-<?
+<?php
+
 use Symfony\Component\Console\Application;
 use user\ex2\SocketServer\RunCommand;
 
