@@ -1,0 +1,19 @@
+{
+    "authors": [
+        {
+            "name": "otus-user-ugraweb"
+        }
+    ],
+    "require": {
+        "symfony/console": "^4.0",
+        "symfony/yaml": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "user\\ex2\\SocketServer\\": "src"
+        }
+    },
+    "require-dev": {
+        "otus-user-ugraweb/ex1": "^1.0"
+    }
+}
