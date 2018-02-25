@@ -3,5 +3,5 @@
 Steps:
 ```
 composer install
-php ./bin/console.php app:cliApp ip
+php ./bin/console.php socketServer ip
 ```
